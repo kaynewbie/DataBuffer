@@ -2,4 +2,4 @@
 
 ### TODO
 
-* destroy
+* Add destroy method
